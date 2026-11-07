@@ -1,0 +1,132 @@
+{
+  "S001": {
+    "name": "Arjun Sharma",
+    "age": 15,
+    "class": "10",
+    "roll": 1,
+    "math_marks": 88,
+    "english_marks": 79,
+    "science_marks": 92,
+    "phone": "+1-555-0101"
+  },
+  "S002": {
+    "name": "Chloe Dubois",
+    "age": 16,
+    "class": "9",
+    "roll": 2,
+    "math_marks": 94,
+    "english_marks": 85,
+    "science_marks": 89,
+    "phone": "+1-555-0102"
+  },
+  "S003": {
+    "name": "Ethan Nowak jdjssjid",
+    "age": 15,
+    "class": "6",
+    "roll": 3,
+    "math_marks": 76,
+    "english_marks": 91,
+    "science_marks": 84,
+    "phone": "+1-555-0103"
+  },
+  "S004": {
+    "name": "Fatima Al-Sayed",
+    "age": 15,
+    "class": "4",
+    "roll": 4,
+    "math_marks": 99,
+    "english_marks": 88,
+    "science_marks": 95,
+    "phone": "+1-555-0104"
+  },
+  "S005": {
+    "name": "Gabriel Silva",
+    "age": 16,
+    "class": "12",
+    "roll": 5,
+    "math_marks": 65,
+    "english_marks": 72,
+    "science_marks": 70,
+    "phone": "+1-555-0105"
+  },
+  "S006": {
+    "name": "Hana Tanaka",
+    "age": 15,
+    "class": "7",
+    "roll": 6,
+    "math_marks": 91,
+    "english_marks": 94,
+    "science_marks": 88,
+    "phone": "+1-555-0106"
+  },
+  "S007": {
+    "name": "Isaac Ivanov",
+    "age": 16,
+    "class": "8",
+    "roll": 7,
+    "math_marks": 83,
+    "english_marks": 80,
+    "science_marks": 81,
+    "phone": "+1-555-0107"
+  },
+  "S008": {
+    "name": "Jasmine Nguyen",
+    "age": 15,
+    "class": "12",
+    "roll": 8,
+    "math_marks": 87,
+    "english_marks": 86,
+    "science_marks": 93,
+    "phone": "+1-555-0108"
+  },
+  "S009": {
+    "name": "Kevin Mwangi",
+    "age": 16,
+    "class": "1",
+    "roll": 9,
+    "math_marks": 72,
+    "english_marks": 68,
+    "science_marks": 75,
+    "phone": "+1-555-0109"
+  },
+  "S010": {
+    "name": "Lily Campbell",
+    "age": 15,
+    "class": "2",
+    "roll": 10,
+    "math_marks": 95,
+    "english_marks": 97,
+    "science_marks": 91,
+    "phone": "+1-555-0110"
+  },
+  "S011": {
+    "name": "Rakibul Alam",
+    "age": 17,
+    "class": "11th",
+    "roll": 11,
+    "math_marks": 90,
+    "english_marks": 85,
+    "science_marks": 88,
+    "phone": "+1-555-0111"
+  },
+  "S012": {
+    "name": "Brinto",
+    "age": 12,
+    "student_class": 8,
+    "roll": 8,
+    "Math_marks": 96,
+    "English_marks": 77,
+    "Science_marks": 88,
+    "phone": "01700001200"
+  },
+  "S013": {
+    "name": "string",
+    "age": 12,
+    "student_class": 1,
+    "roll": 1,
+    "Math_marks": 1,
+    "English_marks": 1,
+    "Science_marks": 1,
+    "phone": "01700000000"
+  }
+}
